@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DAM_AC2</string>
+
+    <string-array name="generos_livro">
+        <item>Fantasia</item>
+        <item>Romance</item>
+        <item>Ficção Cientifica</item>
+        <item>Biografia</item>
+        <item>Didatico</item>
+    </string-array>
+
+    <string-array name="status_livro">
+        <item>Quero Ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+
+    <string-array name="filtro_generos">
+        <item>Todos</item>
+        <item>Fantasia</item>
+        <item>Romance</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+        <item>Didático</item>
+    </string-array>
+</resources>
